@@ -8,5 +8,5 @@ Um jogo criado em React com funcionalidades de andar para os lados, o  personage
 ## &#127775; Features
 &#10004; Hooks Personalizados
 
-### <a href="https://thiagofang.github.io/validador-de-CPF-Hiring-Coders-3/">Clique aqui para visitar o site</a>
+### <a href="https://rpggame-five.vercel.app/">Clique aqui para visitar o site</a>
 
